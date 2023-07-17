@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lin-toto
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - lin-toto/licoris
+  - lin-toto/recoil
+  - lin-toto/lic-multistage-spatial-context
+  - luogu-dev/cyaron
