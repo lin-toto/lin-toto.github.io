@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BSc student @ Waseda University, soon to be MSc + PhD student @ Tokyo Institute of Technology
+subtitle: MSc student @ Tokyo Institute of Technology, Waseda University Alumni
 
 profile:
   align: right
@@ -11,6 +11,7 @@ profile:
   address: >
     Contacts:
     csl#lunlimited.net
+    lin.f.ab#m.titech.ac.jp
     lin_toto#toki.waseda.jp
 
 news: true  # includes a list of news items
@@ -19,8 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior-year undergraduate student at the [Katto Lab](https://www.katto.comm.waseda.ac.jp/), School of Fundamental Science and Engineering, Waseda University. My research interests are **Learned Image Compression**, **Parallel Processing**, and **High Performance Computing**. 
+I am a MSc student at the [CARAS Lab](https://titech-caras.github.io/), Department of Information and Communications Engineering, Tokyo Institute of Technology. My current research field is **Computer Architecture and Security**.
 
-From Sep. 2023 I will be a MSc & PhD candidate at the [CARAS Lab](https://titech-caras.github.io/), Department of Information and Communications Engineering, Tokyo Institute of Technology. My future research field will be **Computer Architecture and Security**.
+I am an alumni of the [Katto Lab](https://www.katto.comm.waseda.ac.jp/), School of Fundamental Science and Engineering, Waseda University. My research interests during this period were **Learned Image Compression**, **Parallel Processing**, and **High Performance Computing**. 
 
 Download my [CV](cv.pdf){:target="_blank"} here.
