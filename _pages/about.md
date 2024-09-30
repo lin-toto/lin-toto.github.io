@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc student @ Tokyo Institute of Technology, Waseda University Alumni
+subtitle: MSc student @ Institute of Science Tokyo, Waseda University Alumni
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a MSc student at the [CARAS Lab](https://titech-caras.github.io/), Department of Information and Communications Engineering, Tokyo Institute of Technology. My current research field is **Computer Architecture and Security**.
+I am a MSc student at the [CARAS Lab](https://titech-caras.github.io/), Department of Information and Communications Engineering, Institute of Science Tokyo (previously Tokyo Institute of Technology). My current research field is **Computer Architecture and Security**.
 
 I am an alumni of the [Katto Lab](https://www.katto.comm.waseda.ac.jp/), School of Fundamental Science and Engineering, Waseda University. My research interests during this period were **Learned Image Compression**, **Parallel Processing**, and **High Performance Computing**. 
 
