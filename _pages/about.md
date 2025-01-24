@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc student @ Institute of Science Tokyo, Waseda University Alumni
+subtitle: AS135674 MSc student @ Institute of Science Tokyo, Waseda University Alumni
 
 profile:
   align: right
