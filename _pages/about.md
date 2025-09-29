@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AS135674 MSc student @ Institute of Science Tokyo, Waseda University Alumni
+subtitle: AS135674 PhD Candidiate @ Institute of Science Tokyo, Waseda University Alumni
 
 profile:
   align: right
@@ -10,9 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     Contacts:
-    csl#lunlimited.net
-    lin.f.ab#m.titech.ac.jp
-    lin_toto#toki.waseda.jp
+    lin.f.f849#m.isct.ac.jp
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a MSc student at the [CARAS Lab](https://titech-caras.github.io/), Department of Information and Communications Engineering, Institute of Science Tokyo (previously Tokyo Institute of Technology). My current research field is **Computer Architecture and Security**.
+I am a PhD Candidate at the [CARAS Lab](https://titech-caras.github.io/), Department of Information and Communications Engineering, Institute of Science Tokyo (previously Tokyo Institute of Technology). My current research field is **Computer Architecture and Security**. I am funded by the JST ACT-X research grant.
 
 I am an alumni of the [Katto Lab](https://www.katto.comm.waseda.ac.jp/), School of Fundamental Science and Engineering, Waseda University. My research interests during this period were **Learned Image Compression**, **Parallel Processing**, and **High Performance Computing**. 
 
